@@ -2,7 +2,6 @@
 
 
 ## The Repository
-___
 This homework is stored in the "hw-01-code-refactor" repositoty on Alix's github account (username: awebb8). All HTML, CSS, and image files are stored here. This repository is public.
 
 
@@ -11,7 +10,6 @@ Refactor Horiseon's website to make it accessible.  Clean up the code, and impro
 
 
 ## Horiseon Website
-___
 ![Horiseon Site Image](./assets/images/horiseon-site-image.png)
 
 ### Header
@@ -28,10 +26,8 @@ The website includes a sidebar section, which is displayed to the right of the C
 
 
 ## Reset Feature
-___
 The coding of this website includes a reset file ("reset.css") so that it will be accessible across multiple browsers.
 
 
 ## Credits
-___
 The original code for Horiseon's website was provided by Trilogy Education Services.
